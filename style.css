@@ -1,0 +1,35 @@
+
+
+body{
+  background-image: url(../img/pattern.png);
+  background-color: blue;
+}
+
+header img{
+  height: 50px;
+  margin-top: 20px;
+}
+ 
+main{
+  background-color: white;
+}
+
+.toghether{
+  margin: 0;
+}
+
+.image{
+  margin-top: 30px;
+
+}
+
+thead{
+  background-color: blue;
+}
+
+
+
+
+
+
+
